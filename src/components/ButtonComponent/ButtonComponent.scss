@@ -1,0 +1,13 @@
+.buttonComponent {
+  button {
+    width: 45px;
+    height: 45px;
+    font-size: 25px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
